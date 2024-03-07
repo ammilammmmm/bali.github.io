@@ -414,6 +414,10 @@ footer .credit a {
   }
 }
 
+.hero .video {
+  max-width: 100%;
+}
+
 .aboutbali .row {
   flex-wrap: wrap;
 }
